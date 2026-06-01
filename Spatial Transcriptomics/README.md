@@ -5,13 +5,12 @@ A reproducible pipeline for spatial transcriptomics data analysis, including qua
 ## Workflow
 
 1. Quality Control (QC)
-2. Normalization & Scaling
+2. Normalization
 3. Highly Variable Gene Selection
 4. PCA & UMAP
-5. Leiden Clustering
-6. Cell-Type Annotation
-7. Differential Expression Analysis
-8. Spatial Visualization
+5. Clustering & Spatial Mapping
+6. Marker Gene Discovery (Differential Expression Analysis)
+7. Spatial Neighborhood Enrichment
 
 ## Requirements
 
@@ -23,13 +22,6 @@ A reproducible pipeline for spatial transcriptomics data analysis, including qua
 * NumPy
 * Matplotlib
 
-## Installation
-
-```bash
-git clone https://github.com/username/spatial-transcriptomics.git
-cd spatial-transcriptomics
-pip install -r requirements.txt
-```
 
 ## Usage
 
@@ -49,8 +41,4 @@ Run the notebooks or scripts in the following order:
 * Spatial cluster maps
 * Marker gene expression plots
 * Differentially expressed genes
-* Functional enrichment results
-
-## Contact
-
-For questions or collaborations, please open an issue or contact the repository owner.
+* MORAN'S I SPATIAL AUTOCORRELATION
