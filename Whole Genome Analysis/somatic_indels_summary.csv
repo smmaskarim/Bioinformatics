@@ -1,0 +1,5 @@
+Chrom,Position,Ref,Alt,Gene,Effect,Impact
+chr1,214802553,CT,C,CENPF,intron_variant,MODIFIER
+chr1,214830322,AG,A,CENPF,frameshift_variant,HIGH
+chr22,32480874,CT,C,SLC5A1,splice_region_variant&intron_variant,LOW
+chr2,29541320,G,GA,ALK,intron_variant,MODIFIER

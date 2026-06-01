@@ -1,0 +1,11 @@
+Chrom,Position,Ref,Alt,Gene,Effect,Impact
+chr12,25378594,C,T,KRAS,missense_variant,MODERATE
+chr12,25398285,C,A,KRAS,missense_variant,MODERATE
+chr1,167095892,C,A,DUSP27,missense_variant,MODERATE
+chr1,167096614,C,A,DUSP27,missense_variant,MODERATE
+chr1,214803969,G,C,CENPF,missense_variant,MODERATE
+chr1,214830322,AG,A,CENPF,frameshift_variant,HIGH
+chr22,32480573,C,T,SLC5A1,missense_variant,MODERATE
+chr3,121416308,A,T,GOLGB1,stop_gained,HIGH
+chr7,92118632,C,G,PEX1,missense_variant,MODERATE
+chr7,139268706,C,T,HIPK2,missense_variant,MODERATE
