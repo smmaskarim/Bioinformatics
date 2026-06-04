@@ -10,7 +10,7 @@ A reproducible pipeline for spatial transcriptomics data analysis, including qua
 4. PCA & UMAP
 5. Clustering & Spatial Mapping
 6. Marker Gene Discovery (Differential Expression Analysis)
-7. Spatial Neighborhood Enrichment
+7. Spatial Variable Gene
 
 ## Requirements
 
