@@ -38,7 +38,7 @@ Run the notebooks or scripts in the following order:
 
 ## Output
 
-* Spatial cluster maps
-* Marker gene expression plots
-* Differentially expressed genes
-* MORAN'S I SPATIAL AUTOCORRELATION
+* Spatial Cluster Maps
+* Marker Gene Expression Plots
+* Differentially Expressed Genes
+* Spatial Variable Genes
