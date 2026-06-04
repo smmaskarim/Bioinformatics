@@ -39,6 +39,5 @@ Run the notebooks or scripts in the following order:
 ## Output
 
 * Spatial Cluster Maps
-* Marker Gene Expression Plots
 * Differentially Expressed Genes
 * Spatial Variable Genes
